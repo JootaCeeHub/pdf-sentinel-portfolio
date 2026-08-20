@@ -1,6 +1,6 @@
 # PDF Sentinel
 
-> **Curated public portfolio version.** This repository is a sanitized, non-production showcase extracted from the private source (`pdf-sentinel`). It intentionally excludes infrastructure, configuration, credentials, and internal history.
+> **Curated public portfolio version.** This repository is a sanitized, non-production showcase extracted from 1 private source repository. It intentionally excludes infrastructure, configuration, credentials, and internal history.
 
 **PDF monitoring & analysis foundation**
 
@@ -12,26 +12,15 @@ A modern React + Vite + shadcn/ui starter intended to evolve into a PDF monitori
 
 ## Architecture
 
-The codebase follows a component-based architecture with typed domain models and service abstractions ready for backend integration. See the `docs/`, `src/`, or `app/` directories for the module structure.
+The codebase follows a component-based architecture with typed domain models and service abstractions ready for backend integration.
 
 ## Tech Stack
 
 React · TypeScript · Vite · shadcn/ui
 
-## Key Features
-
-- `pdf` · `tools` · `starter`
-
 ## Project Status
 
 **EXPERIMENTAL** — under active development (MVP / prototype stage).
-
-## Technical Highlights
-
-- Typed TypeScript architecture with reusable component system
-- Client-first product experience with service abstractions for future backends
-- Modern build tooling and code-quality conventions
-- Verified with tests where included in this showcase
 
 ## Portfolio Context
 
